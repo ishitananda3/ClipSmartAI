@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+openai
+whisper
+moviepy
+ffmpeg-python
+transformers
+yt-dlp
+

@@ -1,0 +1,73 @@
+/* Wrapper for results */
+.results-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Results title */
+  .results-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+  }
+  
+  /* Individual result item */
+  .result-item {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Video title */
+  .video-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #4caf50;
+    margin-bottom: 10px;
+  }
+  
+  /* Timestamps list */
+  .timestamps-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Individual timestamp item */
+  .timestamp-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    background-color: #f4f4f4;
+  }
+  
+  /* Timestamp info */
+  .timestamp-info {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 6px;
+  }
+  
+  /* Timestamp text */
+  .timestamp-text {
+    font-size: 14px;
+    color: #333;
+    margin: 0;
+    line-height: 1.4;
+  }
+  
+  /* Highlighted text */
+  .timestamp-text strong {
+    color: #000;
+  }
+  
